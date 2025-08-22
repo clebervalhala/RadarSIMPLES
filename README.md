@@ -12,7 +12,7 @@ Este projeto está sendo desenvolvido por **Cleber Paulo e Silva** como parte de
 
 ## 📄 Documentação
 - [Briefing do Projeto (PDF)](docs/Briefing_RadarSIMPLES_Cleber_Paulo_e_Silva.pdf)
-- [Briefing do Projeto (DOCX)](docs/Briefing_RadarSIMPLES_Cleber_Paulo_e_Silva.docx)
+briefing_app_radarSIMPLES_CPSilvaLTDA.docx
 
 ## 📌 Status
 🟡 Em andamento – Início pelo briefing e prototipação.
