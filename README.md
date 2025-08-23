@@ -12,6 +12,9 @@ Este projeto está sendo desenvolvido por **Cleber Paulo e Silva** como parte de
 
 ## 📄 Documentação
 
+Acesse a documentação completa [clicando aqui](docs/README.md).
+
+
 
 ## 📌 Status
 🟡 Em andamento – Início pelo briefing e prototipação.
