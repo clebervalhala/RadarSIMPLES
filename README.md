@@ -11,7 +11,7 @@ Este projeto está sendo desenvolvido por **Cleber Paulo e Silva** como parte de
 - Git e GitHub
 
 ## 📄 Documentação
-- [Briefing do Projeto (PDF)](docs/Briefing_RadarSIMPLES_Cleber_Paulo_e_Silva.pdf)
+[- [Briefing do Projeto (PDF)](docs/Briefing_RadarSIMPLES_Cleber_Paulo_e_Silva.pdf)](https://github.com/clebervalhala/RadarSIMPLES/blob/main/docs/Briefing_RadarSIMPLES_Cleber_Paulo_e_Silva.pdf)
 - [Briefing do Projeto (DOCX)](briefing_app_radarSIMPLES_CPSilvaLTDA.docx)
 
 ## 📌 Status
