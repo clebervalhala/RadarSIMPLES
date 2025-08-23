@@ -12,7 +12,7 @@ Este projeto está sendo desenvolvido por **Cleber Paulo e Silva** como parte de
 
 ## 📄 Documentação
 
-Acesse a documentação completa [clicando aqui](/docs/briefing_app_radarSIMPLES_CPSilvaLTDA.docx).
+Acesse a documentação completa [clicando aqui](/docs/briefing_app_radarSIMPLES_CPSilvaLTDA.pdf).
 
 
 
