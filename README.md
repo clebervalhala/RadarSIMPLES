@@ -14,11 +14,9 @@ Este projeto está sendo desenvolvido por **Cleber Paulo e Silva** como parte de
 
 Briefing para o cliente [clicando aqui](/docs/briefing_app_radarSIMPLES_CPSilvaLTDA.pdf).
 
-## 📄 Documentação
-
 Você pode acessar a documentação completa do projeto no Notion:
 
-👉 [Clique aqui para visualizar o Briefing no Notion](https://www.notion.so/seu-link-aqui)
+👉 [Clique aqui para visualizar o Briefing no Notion][(https://www.notion.so/Projeto-RadarSIMPLES-25ab51c69a5d80408cbad61f7edfed70?source=copy_link)]
 
 
 
