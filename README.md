@@ -20,7 +20,7 @@ Você pode acessar a documentação completa do projeto no Notion:
 
 Você pode acessar a documentação completa do projeto no Notion:
 
-👉 [Clique aqui para visualizar o Briefing no Notion](https://www.notion.so/[https://www.notion.so/Projeto-RadarSIMPLES-25ab51c69a5d80408cbad61f7edfed70?source=copy_link])
+👉 [Clique aqui para visualizar o Briefing no Notion](https://www.notion.so[/Projeto-RadarSIMPLES-25ab51c69a5d80408cbad61f7edfed70?source=copy_link])
 
 
 
