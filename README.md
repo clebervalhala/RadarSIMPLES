@@ -18,11 +18,24 @@ Você pode acessar a documentação completa do projeto no Notion:
 
 👉 [Clique aqui para visualizar o Briefing no Notion](https://www.notion.so/Projeto-RadarSIMPLES-25ab51c69a5d80408cbad61f7edfed70?source=copy_link)
 
+✏️ FigJam (User Flow Visual)
+- [Fluxograma no FigJam](https://www.figma.com/board/5S7ufocqNMDsLj0reY434m/RadarSIMPLES--userflow-MVP-?node-id=1-2&t=KINLAZeNMszxmsYK-1)
 
+## 🛠️ Status do Projeto
 
+🚧 **Em desenvolvimento (MVP)**  
+Última etapa concluída: **User Flow**  
+Próxima etapa: **Wireframe no Figma**
 
-## 📌 Status
-🟡 Em andamento – Início pelo briefing e prototipação.
+---
+
+## 📌 Funcionalidades previstas para o MVP
+
+- Exibição da velocidade atual do veículo.
+- Alerta visual de proximidade com radares.
+- Interface flutuante discreta (estilo bolinha da Uber Driver e 99 Motorista).
+- Design intuitivo e minimalista.
+- Ativação manual ou automática por geolocalização (versão futura).
 
 ---
 
